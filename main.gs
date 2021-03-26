@@ -4,7 +4,7 @@
  * Do not use this software if you don't know what you are doing.
  * This software can modify and/or delete all your emails and documents.
  * This software comes as it is. No guarantee whatsoever is given. 
- * The author cannot be held responable for any misunderstanding, incorrect use, 
+ * The author cannot be held responsible for any misunderstanding, incorrect use, 
  * false scientific conclusions or other problems following this software.
  */
 function sender_list() {
